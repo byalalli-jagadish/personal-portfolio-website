@@ -41,7 +41,7 @@ const Hero: React.FC<HeroProps> = ({ profileImage }) => {
             
             <p className="text-base md:text-xl xl:text-2xl text-slate-600 mb-10 leading-relaxed max-w-2xl mx-auto lg:mx-0">
               Hi, I'm <span className="text-slate-900 font-bold underline decoration-orange-400/30 decoration-4 underline-offset-4">{PERSONAL_INFO.name}</span>. 
-              I specialize in <span className="text-orange-600 font-semibold">Spring Boot microservices</span> and <span className="text-blue-600 font-semibold">scalable web architectures</span> that power modern enterprises.
+              I specialize in <span className="text-orange-600 font-semibold">Java ,Spring Boot ,microservices ,AWS</span> and <span className="text-blue-600 font-semibold">scalable web architectures</span> that power modern enterprises.
             </p>
             
             <div className="flex flex-col sm:flex-row flex-wrap gap-4 justify-center lg:justify-start">
